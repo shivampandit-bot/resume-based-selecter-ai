@@ -1,23 +1,23 @@
 # resume-based-selecter-ai
-# 🚀 Graphura Resume AI  Graphura Resume AI is an intelligent resume analysis system that automatically extracts key information from resumes, calculates a weighted score, and recommends the most suitable job roles.  This project is designed to automate and improve the resume screening process using rule-based logic and AI-driven insights.
-# 🚀 Graphura Resume AI
+# Graphura Resume AI  Graphura Resume AI is an intelligent resume analysis system that automatically extracts key information from resumes, calculates a weighted score, and recommends the most suitable job roles.  This project is designed to automate and improve the resume screening process using rule-based logic and AI-driven insights.
+#  Graphura Resume AI
 
 Graphura Resume AI is a smart resume analysis and role-matching system that helps automate the hiring process by evaluating candidate resumes and recommending the most suitable roles.
 
 ---
 
-## 🎯 Features
+##  Features
 
-- 📄 Resume Upload (PDF/TXT)
-- 👤 Automatic Name Extraction
-- 🧠 Smart Experience Detection (Fresher / Experienced)
-- 🛠 Skill Extraction from Resume
-- 🎓 Education Detection
-- 📜 Certification Count
+-  Resume Upload (PDF/TXT)
+-  Automatic Name Extraction
+-  Smart Experience Detection (Fresher / Experienced)
+-  Skill Extraction from Resume
+-  Education Detection
+-  Certification Count
 
 ---
 
-## 💯 Weighted Scoring System
+##  Weighted Scoring System
 
 The system evaluates candidates based on:
 
@@ -29,13 +29,13 @@ The system evaluates candidates based on:
 Final Score: **0–100**
 
 ### Categories:
-- ✅ Strong Fit (>80)
-- ⚠️ Moderate Fit (60–80)
-- ❌ Low Fit (<60)
+-  Strong Fit (>80)
+- Moderate Fit (60–80)
+- low Fit (<60)
 
 ---
 
-## 🎯 Role Recommendation
+##  Role Recommendation
 
 Based on extracted skills, the system recommends the **Top 3 job roles**:
 
@@ -48,7 +48,7 @@ Based on extracted skills, the system recommends the **Top 3 job roles**:
 
 ---
 
-## 🧠 Intelligent Features
+##  Intelligent Features
 
 - Detects candidate name from resume automatically  
 - Identifies freshers if no experience is found  
@@ -59,15 +59,18 @@ Based on extracted skills, the system recommends the **Top 3 job roles**:
 
 ## 🛠 Tech Stack
 
-- Python 🐍  
-- Streamlit 🎨  
-- Regex & Basic NLP 🧠  
-- PyMuPDF (PDF Parsing) 📄  
+- Python 
+- Streamlit   
+- Regex & Basic NLP  
+- PyMuPDF (PDF Parsing)  
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 pip install streamlit pymupdf
 streamlit run app.py
+
+AUTHOR
+Shivam Pandit
